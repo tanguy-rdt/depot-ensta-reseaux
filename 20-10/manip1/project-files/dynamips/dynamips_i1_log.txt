@@ -1,0 +1,19 @@
+Oct 20 21:57:33.258 HYPERVISOR: Release 0.2.17-amd64/Darwin (tag 2017072410)
+Oct 20 21:57:33.258 HYPERVISOR: Started on IP = localhost, TCP port = 62537.
+Oct 20 21:57:33.264 HYPERVISOR: exec_cmd: hypervisor version 
+Oct 20 21:57:33.264 HYPERVISOR: exec_cmd: hypervisor working_dir /Users/tanguyrdt/Documents/ENSTA_depot/depot-ensta-reseaux/20-10/manip1/project-files/dynamips 
+Oct 20 21:57:33.264 GENERAL: working_dir=/Users/tanguyrdt/Documents/ENSTA_depot/depot-ensta-reseaux/20-10/manip1/project-files/dynamips
+Oct 20 21:57:33.265 HYPERVISOR: exec_cmd: ethsw create Switch1 
+Oct 20 21:57:58.392 HYPERVISOR: exec_cmd: nio create_udp udp-6cf2672a-8f7c-4c3f-b223-73fbb7b5bcc9 10001 127.0.0.1 10000 
+Oct 20 21:57:58.393 HYPERVISOR: exec_cmd: ethsw add_nio Switch1 udp-6cf2672a-8f7c-4c3f-b223-73fbb7b5bcc9 
+Oct 20 21:57:58.404 HYPERVISOR: exec_cmd: ethsw set_access_port Switch1 udp-6cf2672a-8f7c-4c3f-b223-73fbb7b5bcc9 1 
+Oct 20 21:58:03.887 HYPERVISOR: exec_cmd: nio create_udp udp-9926b3b0-e6ad-4175-9409-de03e03e4951 10002 127.0.0.1 10003 
+Oct 20 21:58:03.887 HYPERVISOR: exec_cmd: ethsw add_nio Switch1 udp-9926b3b0-e6ad-4175-9409-de03e03e4951 
+Oct 20 21:58:03.898 HYPERVISOR: exec_cmd: ethsw set_access_port Switch1 udp-9926b3b0-e6ad-4175-9409-de03e03e4951 1 
+Oct 20 21:58:30.913 HYPERVISOR: exec_cmd: nio create_udp udp-4653fbbf-c865-493e-a5ac-73384c7441b7 10005 127.0.0.1 10004 
+Oct 20 21:58:30.913 HYPERVISOR: exec_cmd: ethsw add_nio Switch1 udp-4653fbbf-c865-493e-a5ac-73384c7441b7 
+Oct 20 21:58:30.921 HYPERVISOR: exec_cmd: ethsw set_access_port Switch1 udp-4653fbbf-c865-493e-a5ac-73384c7441b7 1 
+Oct 20 22:47:59.294 HYPERVISOR: exec_cmd: ethsw delete Switch1 
+Oct 20 22:47:59.352 HYPERVISOR: exec_cmd: hypervisor stop 
+Oct 20 22:47:59.547 HYPERVISOR: Stopped.
+Oct 20 22:47:59.547 GENERAL: reset done.
