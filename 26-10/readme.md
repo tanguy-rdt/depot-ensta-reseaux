@@ -69,5 +69,5 @@
 
 5. Quel est le TTL du dernier paquet avant de recevoir la première réponse ?
 
-   > D'ailleurs, c'est le seul paquet de données qui n'est pas en rouge. Si on regarde les autres, ils ont un TTL de 1 : dernière valeur avant extinction, d'où la couleur !![](/Users/tanguy/Documents/ENSTA_depot/depot-ensta-reseaux/26-10/images/2022-10-27-13-59-11-image.png)
+   > 5, d'ailleurs, c'est le seul paquet de données qui n'est pas en rouge. Si on regarde les autres, ils ont un TTL de 1 : dernière valeur avant extinction, d'où la couleur !![](/Users/tanguy/Documents/ENSTA_depot/depot-ensta-reseaux/26-10/images/2022-10-27-13-59-11-image.png)
 
