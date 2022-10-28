@@ -364,3 +364,18 @@ On va maintenant réaliser une capture Wireshark :
 > ![](./.img/manip2_q9.png)
 >
 > Entre le routeur 2 et 3, il n'y a aucune trace du `ping`
+
+
+
+## Routage RIP
+
+### Routage Statique
+
+#### Question 10
+
+Installer les équipements (routeurs et terminaux) comme illustré dans la figure 3. Le câblage entre les di􏰀érents noeuds se fait en utilisant les interfaces Ethernet.
+
+
+
+
+
